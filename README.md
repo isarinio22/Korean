@@ -115,5 +115,5 @@ Loads the trained model for prediction on new face images.
 Contact
 Isar Shmueli
 
-LinkedIn
-GitHub
+[LinkedIn](https://www.linkedin.com/in/isar-shmueli-906a60262/)
+[GitHub](https://github.com/isarinio22/)
